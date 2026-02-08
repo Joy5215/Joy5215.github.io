@@ -1,0 +1,106 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "tech/intro_tech",
+          "docs": [
+            {
+              "id": "about/me",
+              "path": "/docs/about/me",
+              "sidebar": "aboutSiderbar"
+            },
+            {
+              "id": "about/support",
+              "path": "/docs/about/support",
+              "sidebar": "aboutSiderbar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
+              "id": "question/intro_ques",
+              "path": "/docs/question/intro_ques",
+              "sidebar": "bugSiderbar"
+            },
+            {
+              "id": "question/vsocde/ubuntu_cn_wrong",
+              "path": "/docs/question/vsocde/ubuntu_cn_wrong",
+              "sidebar": "bugSiderbar"
+            },
+            {
+              "id": "repo/intro_repo",
+              "path": "/docs/repo/intro_repo",
+              "sidebar": "repoSiderbar"
+            },
+            {
+              "id": "resources/intro_res",
+              "path": "/docs/resources/intro_res",
+              "sidebar": "resSiderbar"
+            },
+            {
+              "id": "resources/robot",
+              "path": "/docs/resources/robot",
+              "sidebar": "resSiderbar"
+            },
+            {
+              "id": "tech/intro_tech",
+              "path": "/docs/tech/intro_tech",
+              "sidebar": "techSiderbar"
+            },
+            {
+              "id": "tech/ROS1/intro",
+              "path": "/docs/tech/ROS1/intro",
+              "sidebar": "techSiderbar"
+            },
+            {
+              "id": "tech/ROS2/intro",
+              "path": "/docs/tech/ROS2/intro",
+              "sidebar": "techSiderbar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "techSiderbar": {
+              "link": {
+                "path": "/docs/tech/intro_tech",
+                "label": "tech/intro_tech"
+              }
+            },
+            "resSiderbar": {
+              "link": {
+                "path": "/docs/resources/intro_res",
+                "label": "resources/intro_res"
+              }
+            },
+            "repoSiderbar": {
+              "link": {
+                "path": "/docs/repo/intro_repo",
+                "label": "repo/intro_repo"
+              }
+            },
+            "bugSiderbar": {
+              "link": {
+                "path": "/docs/question/intro_ques",
+                "label": "question/intro_ques"
+              }
+            },
+            "aboutSiderbar": {
+              "link": {
+                "path": "/docs/about/me",
+                "label": "about/me"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

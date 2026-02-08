@@ -1,0 +1,28 @@
+{
+  "id": "tech/ROS/ROS1/intro",
+  "title": "ROS1",
+  "description": "关于ROS1的学习记录。",
+  "source": "@site/docs/tech/ROS/ROS1/intro.md",
+  "sourceDirName": "tech/ROS/ROS1",
+  "slug": "/tech/ROS/ROS1/intro",
+  "permalink": "/docs/tech/ROS/ROS1/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tech/ROS/ROS1/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "ROS1"
+  },
+  "sidebar": "techSiderbar",
+  "previous": {
+    "title": "教程介绍",
+    "permalink": "/docs/tech/intro_tech"
+  },
+  "next": {
+    "title": "ROS2",
+    "permalink": "/docs/tech/ROS/ROS2/intro"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "resources/intro_res",
+  "title": "资源分享",
+  "description": "搜集的比较好的资源分享出来。",
+  "source": "@site/docs/resources/intro_res.md",
+  "sourceDirName": "resources",
+  "slug": "/resources/intro_res",
+  "permalink": "/docs/resources/intro_res",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/resources/intro_res.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "资源分享"
+  },
+  "sidebar": "resSiderbar",
+  "next": {
+    "title": "robot",
+    "permalink": "/docs/resources/robot"
+  }
+}

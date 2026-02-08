@@ -1,0 +1,24 @@
+{
+  "id": "about/me",
+  "title": "个人介绍",
+  "description": "平台",
+  "source": "@site/docs/about/me.md",
+  "sourceDirName": "about",
+  "slug": "/about/me",
+  "permalink": "/docs/about/me",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/about/me.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "个人介绍"
+  },
+  "sidebar": "aboutSiderbar",
+  "next": {
+    "title": "感谢支持",
+    "permalink": "/docs/about/support"
+  }
+}

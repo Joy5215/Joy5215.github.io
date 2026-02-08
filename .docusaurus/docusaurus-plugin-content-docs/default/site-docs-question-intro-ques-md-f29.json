@@ -1,0 +1,24 @@
+{
+  "id": "question/intro_ques",
+  "title": "疑问及解答",
+  "description": "在开发过程中遇到的问题和解决方法。",
+  "source": "@site/docs/question/intro_ques.md",
+  "sourceDirName": "question",
+  "slug": "/question/intro_ques",
+  "permalink": "/docs/question/intro_ques",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/question/intro_ques.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "疑问及解答"
+  },
+  "sidebar": "bugSiderbar",
+  "next": {
+    "title": "vscode 无法输入中文",
+    "permalink": "/docs/question/vsocde/ubuntu_cn_wrong"
+  }
+}

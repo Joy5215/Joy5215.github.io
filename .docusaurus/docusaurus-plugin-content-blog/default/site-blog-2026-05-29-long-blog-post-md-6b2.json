@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/vscode 无法输入中文",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2026-05-29-long-blog-post.md",
+  "source": "@site/blog/2026-05-29-long-blog-post.md",
+  "title": "vscode 无法输入中文",
+  "description": "如果是用snap安装的，据说因为阉割版的缘故一定概率出现无法打出中文的现象",
+  "date": "2026-05-29T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ubuntu",
+      "permalink": "/blog/tags/ubuntu"
+    },
+    {
+      "inline": true,
+      "label": "vscode",
+      "permalink": "/blog/tags/vscode"
+    }
+  ],
+  "readingTime": 2.61,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "vscode 无法输入中文",
+    "title": "vscode 无法输入中文",
+    "tags": [
+      "ubuntu",
+      "vscode"
+    ]
+  },
+  "unlisted": false
+}

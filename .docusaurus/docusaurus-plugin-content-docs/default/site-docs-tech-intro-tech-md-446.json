@@ -1,0 +1,24 @@
+{
+  "id": "tech/intro_tech",
+  "title": "学习记录",
+  "description": "学习笔记。",
+  "source": "@site/docs/tech/intro_tech.md",
+  "sourceDirName": "tech",
+  "slug": "/tech/intro_tech",
+  "permalink": "/docs/tech/intro_tech",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tech/intro_tech.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "学习记录"
+  },
+  "sidebar": "techSiderbar",
+  "next": {
+    "title": "ROS1介绍",
+    "permalink": "/docs/tech/ROS1/intro"
+  }
+}

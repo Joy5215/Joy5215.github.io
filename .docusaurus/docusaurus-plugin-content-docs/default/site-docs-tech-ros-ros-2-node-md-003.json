@@ -1,0 +1,20 @@
+{
+  "id": "tech/ROS/ROS2/node",
+  "title": "node",
+  "description": "node",
+  "source": "@site/docs/tech/ROS/ROS2/node.md",
+  "sourceDirName": "tech/ROS/ROS2",
+  "slug": "/tech/ROS/ROS2/node",
+  "permalink": "/docs/tech/ROS/ROS2/node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tech/ROS/ROS2/node.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "techSiderbar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/docs/tech/ROS/ROS2/intro"
+  }
+}

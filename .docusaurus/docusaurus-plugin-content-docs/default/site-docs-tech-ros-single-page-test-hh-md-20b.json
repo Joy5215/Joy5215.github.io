@@ -1,0 +1,24 @@
+{
+  "id": "tech/ROS/single_page_test/HH",
+  "title": "单页测试",
+  "description": "单页测试",
+  "source": "@site/docs/tech/ROS/single_page_test/HH.md",
+  "sourceDirName": "tech/ROS/single_page_test",
+  "slug": "/tech/ROS/single_page_test/HH",
+  "permalink": "/docs/tech/ROS/single_page_test/HH",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tech/ROS/single_page_test/HH.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "单页测试",
+    "sidebar_position": 1
+  },
+  "sidebar": "techSiderbar",
+  "next": {
+    "title": "single",
+    "permalink": "/docs/tech/ROS/single_page_test/HH"
+  }
+}

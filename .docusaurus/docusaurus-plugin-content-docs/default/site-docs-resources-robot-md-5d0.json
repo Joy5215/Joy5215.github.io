@@ -1,0 +1,20 @@
+{
+  "id": "resources/robot",
+  "title": "robot",
+  "description": "ros1",
+  "source": "@site/docs/resources/robot.md",
+  "sourceDirName": "resources",
+  "slug": "/resources/robot",
+  "permalink": "/docs/resources/robot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/resources/robot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "resSiderbar",
+  "previous": {
+    "title": "资源分享",
+    "permalink": "/docs/resources/intro_res"
+  }
+}
