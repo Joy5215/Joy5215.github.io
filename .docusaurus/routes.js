@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '35d'),
     exact: true
@@ -44,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c0f'),
+    component: ComponentCreator('/docs', '720'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd80'),
+        component: ComponentCreator('/docs', '9f4'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '36c'),
+            component: ComponentCreator('/docs', '61b'),
             routes: [
               {
                 path: '/docs/about/me',
@@ -102,6 +137,36 @@ export default [
                 sidebar: "resSiderbar"
               },
               {
+                path: '/docs/tech/Docker/quickstart',
+                component: ComponentCreator('/docs/tech/Docker/quickstart', '223'),
+                exact: true,
+                sidebar: "techSiderbar"
+              },
+              {
+                path: '/docs/tech/Docusaurus/qiuckstart',
+                component: ComponentCreator('/docs/tech/Docusaurus/qiuckstart', '8b2'),
+                exact: true,
+                sidebar: "techSiderbar"
+              },
+              {
+                path: '/docs/tech/English/short sentecnce/diary',
+                component: ComponentCreator('/docs/tech/English/short sentecnce/diary', '5b1'),
+                exact: true,
+                sidebar: "techSiderbar"
+              },
+              {
+                path: '/docs/tech/English/short sentecnce/practise',
+                component: ComponentCreator('/docs/tech/English/short sentecnce/practise', 'a56'),
+                exact: true,
+                sidebar: "techSiderbar"
+              },
+              {
+                path: '/docs/tech/Git/qiuckstart',
+                component: ComponentCreator('/docs/tech/Git/qiuckstart', 'd15'),
+                exact: true,
+                sidebar: "techSiderbar"
+              },
+              {
                 path: '/docs/tech/intro_tech',
                 component: ComponentCreator('/docs/tech/intro_tech', '112'),
                 exact: true,
@@ -116,6 +181,12 @@ export default [
               {
                 path: '/docs/tech/ROS2/intro',
                 component: ComponentCreator('/docs/tech/ROS2/intro', '60e'),
+                exact: true,
+                sidebar: "techSiderbar"
+              },
+              {
+                path: '/docs/tech/ROS2/ros2zhaoxuzuo/quickstart',
+                component: ComponentCreator('/docs/tech/ROS2/ros2zhaoxuzuo/quickstart', 'a55'),
                 exact: true,
                 sidebar: "techSiderbar"
               }

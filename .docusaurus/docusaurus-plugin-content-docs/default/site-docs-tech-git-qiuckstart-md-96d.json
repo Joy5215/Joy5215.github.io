@@ -1,0 +1,28 @@
+{
+  "id": "tech/Git/qiuckstart",
+  "title": "常用命令",
+  "description": "常用命令",
+  "source": "@site/docs/tech/Git/qiuckstart.md",
+  "sourceDirName": "tech/Git",
+  "slug": "/tech/Git/qiuckstart",
+  "permalink": "/docs/tech/Git/qiuckstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/docs/tech/Git/qiuckstart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "常用命令"
+  },
+  "sidebar": "techSiderbar",
+  "previous": {
+    "title": "practise",
+    "permalink": "/docs/tech/English/short sentecnce/practise"
+  },
+  "next": {
+    "title": "ROS1介绍",
+    "permalink": "/docs/tech/ROS1/intro"
+  }
+}

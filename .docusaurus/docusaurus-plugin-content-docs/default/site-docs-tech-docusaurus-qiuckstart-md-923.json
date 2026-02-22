@@ -1,0 +1,24 @@
+{
+  "id": "tech/Docusaurus/qiuckstart",
+  "title": "qiuckstart",
+  "description": "官方网址",
+  "source": "@site/docs/tech/Docusaurus/qiuckstart.md",
+  "sourceDirName": "tech/Docusaurus",
+  "slug": "/tech/Docusaurus/qiuckstart",
+  "permalink": "/docs/tech/Docusaurus/qiuckstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/docs/tech/Docusaurus/qiuckstart.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "techSiderbar",
+  "previous": {
+    "title": "quickstart",
+    "permalink": "/docs/tech/Docker/quickstart"
+  },
+  "next": {
+    "title": "diary",
+    "permalink": "/docs/tech/English/short sentecnce/diary"
+  }
+}

@@ -8,7 +8,7 @@
   "permalink": "/docs/tech/ROS2/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tech/ROS2/intro.md",
+  "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/docs/tech/ROS2/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -20,5 +20,9 @@
   "previous": {
     "title": "ROS1介绍",
     "permalink": "/docs/tech/ROS1/intro"
+  },
+  "next": {
+    "title": "ros2 快速体验",
+    "permalink": "/docs/tech/ROS2/ros2zhaoxuzuo/quickstart"
   }
 }

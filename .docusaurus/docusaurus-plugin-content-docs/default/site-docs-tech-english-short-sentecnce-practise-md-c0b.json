@@ -1,0 +1,26 @@
+{
+  "id": "tech/English/short sentecnce/practise",
+  "title": "practise",
+  "description": "机器学习 (Machine Learning) 是人工智能的核心分支，研究如何让计算机从数据中自动学习规律并做出预测或决策。本页面介绍机器学习的基本概念、主要算法类别以及在机器人领域中的应用。",
+  "source": "@site/docs/tech/English/short sentecnce/practise.md",
+  "sourceDirName": "tech/English/short sentecnce",
+  "slug": "/tech/English/short sentecnce/practise",
+  "permalink": "/docs/tech/English/short sentecnce/practise",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/docs/tech/English/short sentecnce/practise.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "draft": true
+  },
+  "sidebar": "techSiderbar",
+  "previous": {
+    "title": "diary",
+    "permalink": "/docs/tech/English/short sentecnce/diary"
+  },
+  "next": {
+    "title": "常用命令",
+    "permalink": "/docs/tech/Git/qiuckstart"
+  }
+}

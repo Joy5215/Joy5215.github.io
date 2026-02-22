@@ -50,6 +50,31 @@
               "sidebar": "resSiderbar"
             },
             {
+              "id": "tech/Docker/quickstart",
+              "path": "/docs/tech/Docker/quickstart",
+              "sidebar": "techSiderbar"
+            },
+            {
+              "id": "tech/Docusaurus/qiuckstart",
+              "path": "/docs/tech/Docusaurus/qiuckstart",
+              "sidebar": "techSiderbar"
+            },
+            {
+              "id": "tech/English/short sentecnce/diary",
+              "path": "/docs/tech/English/short sentecnce/diary",
+              "sidebar": "techSiderbar"
+            },
+            {
+              "id": "tech/English/short sentecnce/practise",
+              "path": "/docs/tech/English/short sentecnce/practise",
+              "sidebar": "techSiderbar"
+            },
+            {
+              "id": "tech/Git/qiuckstart",
+              "path": "/docs/tech/Git/qiuckstart",
+              "sidebar": "techSiderbar"
+            },
+            {
               "id": "tech/intro_tech",
               "path": "/docs/tech/intro_tech",
               "sidebar": "techSiderbar"
@@ -62,6 +87,11 @@
             {
               "id": "tech/ROS2/intro",
               "path": "/docs/tech/ROS2/intro",
+              "sidebar": "techSiderbar"
+            },
+            {
+              "id": "tech/ROS2/ros2zhaoxuzuo/quickstart",
+              "path": "/docs/tech/ROS2/ros2zhaoxuzuo/quickstart",
               "sidebar": "techSiderbar"
             }
           ],

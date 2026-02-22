@@ -1,0 +1,26 @@
+{
+  "id": "tech/English/short sentecnce/diary",
+  "title": "diary",
+  "description": "providing insights into creating efficient and reusable images",
+  "source": "@site/docs/tech/English/short sentecnce/diary.md",
+  "sourceDirName": "tech/English/short sentecnce",
+  "slug": "/tech/English/short sentecnce/diary",
+  "permalink": "/docs/tech/English/short sentecnce/diary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/docs/tech/English/short sentecnce/diary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "draft": true
+  },
+  "sidebar": "techSiderbar",
+  "previous": {
+    "title": "qiuckstart",
+    "permalink": "/docs/tech/Docusaurus/qiuckstart"
+  },
+  "next": {
+    "title": "practise",
+    "permalink": "/docs/tech/English/short sentecnce/practise"
+  }
+}

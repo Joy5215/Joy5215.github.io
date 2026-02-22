@@ -30,8 +30,9 @@ export default {
   },
   "url": "https://joy5215.github.io",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "Joy5215",
+  "projectName": "Joy5215.github.io",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -62,7 +63,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -73,7 +74,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn",
@@ -130,7 +131,7 @@ export default {
           "label": "关于"
         },
         {
-          "href": "https://github.com/Joy5215",
+          "href": "https://github.com/Joy5215/Joy5215.github.io",
           "label": "GitHub",
           "position": "right"
         },

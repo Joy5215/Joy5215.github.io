@@ -4,6 +4,6 @@ require("/home/joy/Desktop/projects/my-website/node_modules/@easyops-cn/docusaur
 require("/home/joy/Desktop/projects/my-website/node_modules/lunr-languages/lunr.multi.js")(lunr);
 export const removeDefaultStopWordFilter = [];
 export const language = ["zh","en"];
-export const searchIndexUrl = "search-index{dir}.json?_=d4c1de59";
+export const searchIndexUrl = "search-index{dir}.json?_=15be29da";
 export const searchResultLimits = 8;
 export const fuzzyMatchingDistance = 1;

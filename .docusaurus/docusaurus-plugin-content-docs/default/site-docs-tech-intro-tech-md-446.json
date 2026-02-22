@@ -8,7 +8,7 @@
   "permalink": "/docs/tech/intro_tech",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tech/intro_tech.md",
+  "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/docs/tech/intro_tech.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,7 +18,7 @@
   },
   "sidebar": "techSiderbar",
   "next": {
-    "title": "ROS1介绍",
-    "permalink": "/docs/tech/ROS1/intro"
+    "title": "quickstart",
+    "permalink": "/docs/tech/Docker/quickstart"
   }
 }

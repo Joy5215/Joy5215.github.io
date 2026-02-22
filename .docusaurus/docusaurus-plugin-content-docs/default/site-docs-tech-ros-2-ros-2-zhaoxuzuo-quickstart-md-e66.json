@@ -1,0 +1,25 @@
+{
+  "id": "tech/ROS2/ros2zhaoxuzuo/quickstart",
+  "title": "ros2 快速体验",
+  "description": "工作空间结构",
+  "source": "@site/docs/tech/ROS2/ros2zhaoxuzuo/quickstart.md",
+  "sourceDirName": "tech/ROS2/ros2zhaoxuzuo",
+  "slug": "/tech/ROS2/ros2zhaoxuzuo/quickstart",
+  "permalink": "/docs/tech/ROS2/ros2zhaoxuzuo/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/docs/tech/ROS2/ros2zhaoxuzuo/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "ros2 快速体验",
+    "draft": true
+  },
+  "sidebar": "techSiderbar",
+  "previous": {
+    "title": "ROS2介绍",
+    "permalink": "/docs/tech/ROS2/intro"
+  }
+}

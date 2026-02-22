@@ -1,12 +1,5 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import {themes as prismThemes} from 'prism-react-renderer';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -14,27 +7,23 @@ const config = {
   tagline: 'Share sth. in developing',
   favicon: 'img/favicon.ico',
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
   },
 
-  // Set the production url of your site here
-  url: 'https://joy5215.github.io/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  // 修正1：移除 url 末尾的 /，避免路径拼接错误
+  url: 'https://joy5215.github.io',
+  // 保持 baseUrl 为 /（因为是用户名主页仓库）
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  // 修正2：替换为你的 GitHub 用户名和仓库名（核心！）
+  organizationName: 'Joy5215', // 原：facebook
+  projectName: 'Joy5215.github.io', // 原：docusaurus
+  // 新增：明确部署分支（可选，但建议加）
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -60,10 +49,9 @@ plugins: [
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          // 修正3：替换编辑链接为你的仓库地址（可选，移除则删除这行）
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Joy5215/Joy5215.github.io/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -71,11 +59,9 @@ plugins: [
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          // 修正4：替换博客编辑链接为你的仓库地址（可选，移除则删除这行）
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
+            'https://github.com/Joy5215/Joy5215.github.io/tree/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -91,7 +77,6 @@ plugins: [
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
@@ -121,7 +106,6 @@ plugins: [
             position: 'left',
             label: '资源分享',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'doc',
             docId: 'question/intro_ques',
@@ -135,7 +119,8 @@ plugins: [
             label: '关于',
           },
           {
-            href: 'https://github.com/Joy5215',
+            // 修正5：导航栏 GitHub 链接指向你的仓库（可选，保持原链接也可）
+            href: 'https://github.com/Joy5215/Joy5215.github.io',
             label: 'GitHub',
             position: 'right',
           },

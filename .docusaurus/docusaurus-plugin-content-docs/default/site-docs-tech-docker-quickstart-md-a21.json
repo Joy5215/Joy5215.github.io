@@ -1,0 +1,24 @@
+{
+  "id": "tech/Docker/quickstart",
+  "title": "quickstart",
+  "description": "网址",
+  "source": "@site/docs/tech/Docker/quickstart.md",
+  "sourceDirName": "tech/Docker",
+  "slug": "/tech/Docker/quickstart",
+  "permalink": "/docs/tech/Docker/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Joy5215/Joy5215.github.io/tree/main/docs/tech/Docker/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "techSiderbar",
+  "previous": {
+    "title": "学习记录",
+    "permalink": "/docs/tech/intro_tech"
+  },
+  "next": {
+    "title": "qiuckstart",
+    "permalink": "/docs/tech/Docusaurus/qiuckstart"
+  }
+}
