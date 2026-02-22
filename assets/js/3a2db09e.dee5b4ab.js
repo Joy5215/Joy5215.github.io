@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[121],{8070(e){e.exports=JSON.parse('{"tags":[{"label":"ubuntu","permalink":"/blog/tags/ubuntu","count":1},{"label":"vscode","permalink":"/blog/tags/vscode","count":1}]}')}}]);
